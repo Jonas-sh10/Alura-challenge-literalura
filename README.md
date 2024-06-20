@@ -31,7 +31,7 @@ ___
 </p>
 
 ---
-## <span id="características-de-la-aplicación">Principales Funciones de la Aplicación</span>
+## <span id="características-de-la-aplicación">Principales funciones de la aplicación</span>
 <p align="justify">
     <span style="color:#1E90FF;"><strong>1. Buscar Libro:</strong></span> Permite buscar libros utilizando la API de Gutendex y guardar el primer resultado encontrado en la base de datos.<br>
 
@@ -60,7 +60,7 @@ ___
 ---
 ## <span id="tecnologías-utilizadas">Tecnologías utilizadas</span>
 
-### Pricipales Requisitos
+### Pricipales requisitos
 <p align="justify">
 
 1. **Java JDK**: Versión 17 o superior
@@ -95,7 +95,7 @@ ___
 - **Jackson**: Para el manejo de JSON.
 </p>
 
-### Configuración de la Base de Datos
+### Configuración de la base de datos
 <p align="justify">
 
 - Para configurar la conexión a la base de datos PostgreSQL, añade las siguientes propiedades a tu archivo `application.properties` en tu proyecto Spring Boot:
