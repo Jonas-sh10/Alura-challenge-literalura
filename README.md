@@ -57,6 +57,7 @@ ___
 * Si se desea agregar más idiomas, ve a "<u>enum Idioma</u>" y aumente los idiomas que se desea.
 </p>
 
+---
 ## <span id="tecnologías-utilizadas">Tecnologías utilizadas</span>
 
 ### Pricipales Requisitos
